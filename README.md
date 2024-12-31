@@ -87,28 +87,16 @@ detector.start_monitoring()
 - [User Manual](docs/manual.md)
 - [Contributing Guidelines](CONTRIBUTING.md)
 
-## 🤝 Contributing
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
-## 📝 License
-Distributed under the MIT License. See `LICENSE` for more information.
 
-## 👥 Authors
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+
 
 ## 🙏 Acknowledgments
 - Kaggle for providing the training dataset
 - Open-source community for various tools and libraries
 - All contributors who helped with the project
 
-## 📧 Contact
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
 
-Project Link: [https://github.com/yourusername/human-scream-detection](https://github.com/yourusername/human-scream-detection)
 
 ---
 <p align="center">
